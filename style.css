@@ -1,0 +1,38 @@
+*{
+    font-family: Courier New;
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url("hhh.jpg");
+}
+header{
+    font-size: 78px;
+    color: aliceblue;
+    text-align: center;
+}
+div{
+    text-align: left;
+    font-size: 70px;
+    color: aliceblue;
+}
+p{
+    text-align: left;
+    font-size: 30px;
+    color: aliceblue;
+}
+.an{
+    color:lightskyblue;
+}
+.btn{
+    width: 380px;
+    height: 200px;
+    background-color: lightblue;
+    border-width: 3px;
+    border-radius: 30px;    
+    font-size: 50px;
+}
+.a{
+    text-decoration:none;
+    color:lightslategray;
+}
